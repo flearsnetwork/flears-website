@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <style>
+        .favicon {
+          animation-name: fly;
+          animation-duration: 5s;
+          transform-origin:50% 50%;
+          animation-iteration-count: infinite;
+          animation-timing-function: linear;
+        }
+
+        @keyframes fly {
+         	 0% { transform: translate(4px, 1px) rotate(0deg); }
+	        50% { transform: translate(4px, 1px) rotate(0deg); }
+	       100% { transform: translate(4px, 1px) rotate(0deg); }
+      }
+  </style>
+  <text class="favicon" y=".9em" font-size="90">
+    🌟
+  </text>
+</svg>
