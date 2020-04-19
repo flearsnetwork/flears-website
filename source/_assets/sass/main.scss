@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+
+// Code syntax highlighting,
+// powered by https://highlightjs.org
+@import "~highlight.js/styles/a11y-light.css";
+
+@import url("https://use.typekit.net/drm0nsh.css");
+
+@import "base";
+@import "navigation";
+@import "documentation";
+@import "font";
+@import "keyframes";
+@import "layout";
+@import "search";
+@import "startpage";
+
+@tailwind utilities;
