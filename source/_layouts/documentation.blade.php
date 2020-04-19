@@ -1,7 +1,6 @@
 @extends('_layouts.master')
 
 @section('nav-toggle')
-dsfadsfasdfsa
 @include('_nav.menu-toggle')
 @endsection
 
